@@ -18,22 +18,23 @@
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   font-weight: 900;
   color: #f1f1f1;
+  cursor: pointer;
 }
 
 .menu ul {
   list-style: none;
-  display: inline-flex;
   padding: 10px;
+  display: inline-flex;
   text-align: center;
   margin: auto;
-  text-align: center;
 }
 .menu ul li {
   padding: 15px;
   font-size: larger;
+  border-radius: 20px;
 }
 .menu ul li:hover {
   background-color: #403c3c;
-  border-radius: 10px;
-  transition: 1s;
+  border-radius: 20px;
+  transition: 0.5s;
 }
