@@ -1,0 +1,18 @@
+.publi {
+  position: fixed;
+  top: 230px;
+  right: 40px;
+  color: white;
+  font-weight: 900;
+  padding: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  text-align: center;
+  border: 2px solid #f1f1f1;
+}
+.publi:hover {
+  background-color: #8b8b8b;
+  transition: 1.5s;
+}

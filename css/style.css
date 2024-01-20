@@ -38,3 +38,12 @@
   border-radius: 20px;
   transition: 0.5s;
 }
+
+.menu ul a {
+  text-decoration: none;
+  color: #f1f1f1;
+}
+
+body {
+  background-color: #1f1f1f;
+}

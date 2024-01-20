@@ -1,0 +1,17 @@
+.content {
+  margin: 2%;
+  background-color: #373737;
+  border-radius: 15px;
+  text-align: left;
+}
+
+.content p {
+  margin: 20px;
+  padding: 15px;
+}
+
+p {
+  font-size: 20px;
+  color: #f1f1f1;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
